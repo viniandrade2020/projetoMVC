@@ -1,0 +1,82 @@
+ERP - Utilizando PHP e React, banco postgres
+
+Tema do ERP -  Gerenciamento de Mecânicas
+
+Tela de login
+- Campo de e-mail
+- Campo de senha
+- Botão de entrar
+
+Login Crud de usuários
+- Menu usuários
+- Deve possuir uma Grid
+- Botão Novo 
+- Botão Deletar
+- Botão editar
+- Barra de busca na grid*
+- Possuir campo de Nome
+- Possuir campo de e-mail
+- Possuir campo de senha - Senha obrigatório 8 digitos com 1 maiuscula e 1 caractere especial.
+- Criptografia de senha - Token
+- Permissões - checkbox Menus de acesso
+
+Clientes
+- Campo de Nome
+- Campo de CPF/CNPJ
+- Campo Placa do veiculo
+- Campo Telefone
+
+Produtos
+- Cadastro de produtos 
+- Descrição do produto
+- Código
+- Valor
+- Quantidade
+- Tipo Produto ou Serviço
+
+Menu de entradas
+- Campo de busca de produtos
+- Campo de Quantidade
+- Campo Data
+
+Menu de Saidas/Vendas
+- Campo de vinculo com o produto/ Serviço
+- Campo de quantidade
+- Campo de vinculo com cliente
+- Campo de valor total da venda
+- Campo Data 
+
+Relatórios
+- Vendas
+- Produtos 
+- Clientes
+
+
+
+
+
+
+
+
+
+Regras
+- Login
+- Controle de acesso
+- Segurança
+- Permissão Usuário
+
+
+Cadastro
+- Usuário
+- Permissões
+- Produtos/serviço
+- Clientes
+- Vendas
+
+Relatórios
+- Vendas
+- Produtos
+- Clientes
+
+Logs
+- Acesso
