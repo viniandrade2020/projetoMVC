@@ -1,2 +1,2 @@
 # projetoMVC
-MVC com PHP e Reat 
+MVC com PHP e React 
