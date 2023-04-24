@@ -23,7 +23,6 @@ Login Crud de usuários
 Clientes
 - Campo de Nome
 - Campo de CPF/CNPJ
-- Campo Placa do veiculo
 - Campo Telefone
 
 Produtos
